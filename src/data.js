@@ -57,6 +57,15 @@ export const puppyList = [
     tricks: [],
   },
   {
+    id: 5,
+    name: "Mr P",
+    email: "DONTEMAILME.COM",
+    isCute: true,
+    age: 7,
+    ownerId: 3,
+    tricks: [],
+  },
+  {
     id: 7,
     name: "Alfred von Wigglebottom",
     email: "alfie@email.com",
